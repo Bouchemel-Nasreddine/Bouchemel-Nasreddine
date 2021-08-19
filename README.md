@@ -8,7 +8,7 @@
 <a href="https://stackoverflow.com/users/11360812/nasreddine-bouchemel"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></img></a>&nbsp;&nbsp;
 <a href="https://web.facebook.com/nasreddine.bouchemel.1/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></img></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/carinosoh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>&nbsp;&nbsp;
-<a href="https://twitter.com/nasro-bl"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>&nbsp;&nbsp;
+<a href="https://twitter.com/nasro_bl"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>&nbsp;&nbsp;
 
 <p align='center'><em><b>I make my own Luck.</b></em>
 <br/>
