@@ -17,9 +17,9 @@
   
 * [x] En
   
-  Hi, i'm [Bouchemel Nasreddine](https://github.com/Bouchemel-Nasreddine), i like experimenting with new technologies, working with positive people, building small projects, and serf GitHub and StacOverFlow. 
+  Hi, i'm [Bouchemel Nasreddine](https://github.com/Bouchemel-Nasreddine), i like experimenting with new technologies, working with positive people, building small projects, and serf GitHub and StackOverFlow. 
 
-- 💻 I’m currently a computer Science Student at the Higher School of computer scinece (ESI ALger) 
+- 💻 I’m currently a computer Science Student at the Higher School of computer Science (ESI ALger) 
 - 📱  I’m a freelancer in native and hybride mobile developement 
 - 📝 I love Web Scraping, i do a bit of web front-end dev  
 - 👨‍💻 I use Python <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Python.png" alt="Python" width="20" height="20"/> , JAVA <img width="25px" height="25px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> , Flutter <img width="20px" height="20px" src="https://img.icons8.com/color/452/flutter.png"/> with Dart <img src="https://img.icons8.com/color/48/000000/dart.png"  width="20px" height="20px" />  
@@ -30,12 +30,12 @@
   
 * [x] Fr
 
-   Salut, je m'appelle [Bouchemel Nasreddine](https://github.com/Bouchemel-Nasreddine), j'aime experiementer avec les nouvelles technologies, travailler avec des gens positives, contruire des petits projets, et naviguer sur GitHub et StackOverFlow.
+   Salut, je m'appelle [Bouchemel Nasreddine](https://github.com/Bouchemel-Nasreddine), j'aime expérimenter avec les nouvelles technologies, travailler avec des gens positives, contruire des petits projets, et naviguer sur GitHub et StackOverFlow.
   
-- 💻 Je suis actuellement étudiant d'informatique au sein de l'école supèrieure d'informatique (ESI ALger) 
+- 💻 Je suis actuellement étudiant d'informatique au sein de l'école supérieure d'informatique (ESI ALger) 
 - 📱  je suis un frelanceur de développement mobile native et Hybride
 - 📝 J'adore le Web-Scraping, je fais du développement web coté front 
-- 👨‍💻 Je mitraise  Python <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Python.png" alt="Python" width="20" height="20"/> , JAVA <img width="25px" height="25px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> , Flutter <img width="20px" height="20px" src="https://img.icons8.com/color/452/flutter.png"/> with Dart <img src="https://img.icons8.com/color/48/000000/dart.png"  width="20px" height="20px" />  
+- 👨‍💻 Je maitrise Python <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Python.png" alt="Python" width="20" height="20"/> , JAVA <img width="25px" height="25px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> , Flutter <img width="20px" height="20px" src="https://img.icons8.com/color/452/flutter.png"/> with Dart <img src="https://img.icons8.com/color/48/000000/dart.png"  width="20px" height="20px" />  
 - 💬 Besoin d'aide? je suis toujours dispo
  
 - 📫 mes contacts sont au dessus
