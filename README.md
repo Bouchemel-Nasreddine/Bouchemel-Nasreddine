@@ -35,7 +35,7 @@
 - 💻 Je suis actuellement étudiant d'informatique au sein de l'école supérieure d'informatique (ESI ALger) 
 - 📱  je suis un frelanceur de développement mobile native et Hybride
 - 📝 J'adore le Web-Scraping, je fais du développement web coté front 
-- 👨‍💻 Je maitrise Python <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Python.png" alt="Python" width="20" height="20"/> , JAVA <img width="25px" height="25px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> , Flutter <img width="20px" height="20px" src="https://img.icons8.com/color/452/flutter.png"/> with Dart <img src="https://img.icons8.com/color/48/000000/dart.png"  width="20px" height="20px" />  
+- 👨‍💻 Je maitrise Python <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Python.png" alt="Python" width="20" height="20"/> , JAVA <img width="25px" height="25px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />, Kotlin <img src="https://img.icons8.com/color/48/000000/kotlin.png"  width="20px" height="20px"/> , Flutter <img width="20px" height="20px" src="https://img.icons8.com/color/452/flutter.png"/> with Dart <img src="https://img.icons8.com/color/48/000000/dart.png"  width="20px" height="20px" />  
 - 💬 Besoin d'aide? je suis toujours dispo
  
 - 📫 mes contacts sont au dessus
