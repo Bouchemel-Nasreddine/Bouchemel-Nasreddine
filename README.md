@@ -2,6 +2,8 @@
 
 ### You can connect with me:
 
+
+<a href="https://n-bouchemel.engineer/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=TopCoder&logoColor=38BCA3"></img></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/n-bouchemel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>&nbsp;&nbsp;
 <a href="mailto:bouchemelnasreddine@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>&nbsp;&nbsp;
 <a href="https://github.com/Bouchemel-Nasreddine"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>&nbsp;&nbsp;
