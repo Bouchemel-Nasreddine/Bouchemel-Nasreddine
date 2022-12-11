@@ -43,4 +43,7 @@
 - 📫 mes contacts sont au dessus
  
   
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=Nasreddine-Bouchemel&hide=contribs&count_private=true&theme=dracula&show_icons=true" alt="Nasreddine Bouchemel's GitHub Stats" />
+</a>
   
