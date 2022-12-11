@@ -48,7 +48,7 @@
 </a>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src=" https://github-readme-stats.vercel.app/api?username=Bouchemel-Nasreddine&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Nasreddine Bouchemel's GitHub Stats" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=Bouchemel-Nasreddine&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Nasreddine Bouchemel's GitHub Stats" />
 </a>
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
